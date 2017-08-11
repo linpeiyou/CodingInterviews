@@ -3,10 +3,10 @@
 #### GitHub地址：[click me](https://github.com/linpeiyou/CodingInterviews)
 #### csdn博客地址：[click me](http://blog.csdn.net/qq1263292336/article/category/7023932)
 
-**题目列表如下：**
+#### 题目列表如下：
   
 | 题目 | 代码 | 测试 | 博客地址 |
-| ---- | ----- | ----- |
+|:---- |:-----|:----- |:----- |
 | 面试题3：数组中重复的数字 | [代码](https://github.com/linpeiyou/CodingInterviews/blob/master/src/com/peige/algo/_03_DuplicationInArray.java) | [测试](https://github.com/linpeiyou/CodingInterviews/blob/master/src/com/peige/test/_03_Test.java) | [博客地址](http://blog.csdn.net/qq1263292336/article/details/77075776) |
 | 面试题4：二维数组的查找 | [代码](https://github.com/linpeiyou/CodingInterviews/blob/master/src/com/peige/algo/_03_DuplicationInArray.java) | [测试](https://github.com/linpeiyou/CodingInterviews/blob/master/src/com/peige/test/_04_Test.java) | [博客地址](http://blog.csdn.net/qq1263292336/article/details/75042560) |
 | 面试题5：替换空格 | [代码](https://github.com/linpeiyou/CodingInterviews/blob/master/src/com/peige/algo/_05_ReplaceSpaces.java) | [测试](https://github.com/linpeiyou/CodingInterviews/blob/master/src/com/peige/test/_05_Test.java) | [博客地址](http://blog.csdn.net/qq1263292336/article/details/75042667) |
